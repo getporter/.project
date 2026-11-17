@@ -21,7 +21,7 @@ repositories:
 
 website: "https://porter.sh/"
 
-artwork: "https://landscape.cncf.io/logos/porter-sh.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/porter"
 
 adopters:
   path: "https://github.com/getporter/porter/blob/main/ADOPTERS.md"
